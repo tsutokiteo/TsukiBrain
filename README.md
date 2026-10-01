@@ -4,6 +4,7 @@ Embodied affective avatar driven by Drosophila connectome topology.
 
 ## Project Structure
 
+```text
 TSUKIBRAIN/
 ├── bridge/
 │   ├── feed_gui.py
@@ -22,6 +23,8 @@ TSUKIBRAIN/
         ├── environment.yml
         ├── main.py
         └── README.md
+```
+
 
 ## How it works
 
